@@ -24,7 +24,7 @@ This project takes YouTube video URLs, extracts their transcripts, summarizes th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-pdf-summarizer.git
+   git clone https://github.com/Cnu12224/YouTubeLectureSummarizer.git
    cd video-pdf-summarizer
    ```
 
